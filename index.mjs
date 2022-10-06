@@ -1,6 +1,4 @@
-
-
-
+#!/usr/bin/node
 
 import fs from 'fs/promises';
 import yargs from 'yargs';
